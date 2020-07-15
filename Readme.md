@@ -7,3 +7,4 @@ This Mirror includes:
 * nss-mdns-0.10.tar.gz (from http://0pointer.de/lennart/projects/nss-mdns/nss-mdns-0.10.tar.gz)
 * wpa_supplicant-2.7.tar.gz (from http://w1.fi/releases/wpa_supplicant-2.7.tar.gz)
 * lshw-B.02.18.tar.gz (from http://ezix.org/software/files/lshw-B.02.18.tar.gz)
+* nano-2.2.5.tar.gz (from http://www.nano-editor.org/dist/v2.2/nano-2.2.5.tar.gz)
