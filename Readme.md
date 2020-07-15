@@ -6,3 +6,4 @@ This Mirror includes:
 * netbase_5.6.tar.xz (from http://ftp.debian.org/debian/pool/main/n/netbase/netbase_5.6.tar.xz)
 * nss-mdns-0.10.tar.gz (from http://0pointer.de/lennart/projects/nss-mdns/nss-mdns-0.10.tar.gz)
 * wpa_supplicant-2.7.tar.gz (from http://w1.fi/releases/wpa_supplicant-2.7.tar.gz)
+* lshw-B.02.18.tar.gz (from http://ezix.org/software/files/lshw-B.02.18.tar.gz)
