@@ -10,3 +10,4 @@ This Mirror includes:
 * nano-2.2.5.tar.gz (from http://www.nano-editor.org/dist/v2.2/nano-2.2.5.tar.gz)
 * ntp-4.2.8p13.tar.gz (from http://www.eecis.udel.edu/~ntp/ntp_spool/ntp4/ntp-4.2/ntp-4.2.8p13.tar.gz)
 * iw-4.14.tar.gz (from http://www.kernel.org/pub/software/network/iw/iw-4.14.tar.gz)
+* gdb-8.2.1.tar.xz (from http://ftp.gnu.org/gnu/gdb/gdb-8.2.1.tar.xz')
