@@ -8,3 +8,4 @@ This Mirror includes:
 * wpa_supplicant-2.7.tar.gz (from http://w1.fi/releases/wpa_supplicant-2.7.tar.gz)
 * lshw-B.02.18.tar.gz (from http://ezix.org/software/files/lshw-B.02.18.tar.gz)
 * nano-2.2.5.tar.gz (from http://www.nano-editor.org/dist/v2.2/nano-2.2.5.tar.gz)
+* ntp-4.2.8p13.tar.gz (from http://www.eecis.udel.edu/~ntp/ntp_spool/ntp4/ntp-4.2/ntp-4.2.8p13.tar.gz)
