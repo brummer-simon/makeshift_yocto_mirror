@@ -3,3 +3,4 @@
 This Mirror includes:
 * icu4c-63_1-src.tgz (from http://download.icu-project.org/files/icu4c/${PV}/icu4c-63_1-src.tgz) 
 * debianutils_4.8.6.1.tar.xz (from http://snapshot.debian.org/archive/debian/20190217T160716Z/pool/main/d/debianutils/debianutils_4.8.6.1.tar.xz)
+* netbase_5.6.tar.xz (from http://ftp.debian.org/debian/pool/main/n/netbase/netbase_5.6.tar.xz,)
